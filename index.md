@@ -22,7 +22,7 @@ KannadaBuddy ("we", "our", "the app") respects your privacy.
 **Changes**
 • We may update this policy occasionally. Continued use of the app after changes means you accept the updated policy.
 
-Last updated: 2025.
+Last updated: 2026.
 
 
 
